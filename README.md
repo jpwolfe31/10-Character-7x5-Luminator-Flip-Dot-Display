@@ -25,3 +25,5 @@ The boards are supported with a bolt and a couple of nuts.  The end of the bolt 
 The control board uses an Arduino MKR1010 along with the Blynk iPhone app to send commands to the MKR1010 over the internet.
 
 Unfortunately, Blynk is not supporting new makers on its app right now, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger widget.  Also, I would probably use a Nano-ESP32 if I were to build the board again as it is newer, cheaper and seems to have better wifi connectivity.  
+
+See folders above for code, schematics, build information and printed circuit boards. Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
